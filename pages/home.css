@@ -1,0 +1,22 @@
+@import '../base/base.css';
+@import '../base/layout.css';
+@import '../css/font-awesome.min.css';
+
+.logo {
+    margin-left: 135px;
+    height: 40px;
+}
+
+.main-title {
+    font-size: 60px;
+    text-transform: uppercase;
+    letter-spacing: -4px;
+}
+.container > .left-column {
+    width: 40%;
+    float: left;
+}
+.container > .right-column {
+    width: 60%;
+    float: right;
+}
